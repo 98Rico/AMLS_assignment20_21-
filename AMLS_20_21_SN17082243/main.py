@@ -32,7 +32,8 @@ cartoon_df.value_counts('eye_color')
 
 # Task A1
 
-import
+import('AMLS_20_21_SN17082243/A1/landmarks/gender_ladmarks.py')
+
 # Task A2
 
 # Task B1
