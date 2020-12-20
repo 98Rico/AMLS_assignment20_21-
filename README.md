@@ -19,7 +19,7 @@ In the dataset we need to have the following folders:
 
 -initial (contain the 10,000 images)
 
--initial_categories (contains 5 subfolder):
+-initial_categories (contains 5 subfolders):
                     -face_1 or eye_1
                     -face_2 or eye_2
                     -face_3 or eye_3
